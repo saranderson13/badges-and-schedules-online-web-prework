@@ -11,3 +11,14 @@ def batch_badge_creator(array_of_speakers)
   end
   batch_of_badges.to_s
 end
+
+def assign_rooms
+
+
+
+
+
+
+
+
+
