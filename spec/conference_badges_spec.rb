@@ -1,4 +1,5 @@
-require 'spec_helper'
+require 'spec_helper.rb'
+
 
 describe 'conference_badges' do
 
