@@ -23,8 +23,8 @@ end
 
 def printer(array_of_speakers)
   batch_of_badges(array_of_speakers)
-  batch_of_badges.each_index do |badge_index|
-    puts batch_of_badges[badge_index]
+  batch_of_badges.each do |message|
+    puts message
   end
 end
 
