@@ -1,5 +1,5 @@
 require 'spec_helper.rb'
-require '../conference_badges.rb'
+require_relative '../conference_badges.rb'
 
 
 describe 'conference_badges' do
