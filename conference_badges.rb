@@ -22,7 +22,7 @@ def assign_rooms(array_of_speakers)
 end
 
 def printer(array_of_speakers)
-  badges = batch_of_badges(array_of_speakers)
+  badges = badge_batch_creator(array_of_speakers)
   badges.each do |message|
     puts message
   end
