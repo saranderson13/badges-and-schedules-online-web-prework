@@ -12,8 +12,4 @@ def batch_badge_creator(array_of_speakers)
   batch_of_badges
 end
 
-def(array_of_speakers)
-  
-end
-
 def printer()
