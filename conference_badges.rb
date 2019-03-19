@@ -14,7 +14,7 @@ end
 
 def assign_rooms(array_of_speakers)
   room_assignments = []
-  array_of_speakers.each_with_index do |speaker_name|
+  array_of_speakers.each do |speaker_name|
     room_number = 
     room_assignments.push()
   end
