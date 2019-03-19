@@ -13,7 +13,11 @@ def batch_badge_creator(array_of_speakers)
 end
 
 def assign_rooms(array_of_speakers)
-
+  room_assignments = []
+  array_of_speakers.each_with_index do |speaker_name|
+    room_number = 
+    room_assignments.push()
+  end
 end
 
 # def printer(array_of_speakers)
